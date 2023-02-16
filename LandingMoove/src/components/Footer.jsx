@@ -3,12 +3,12 @@ import React from "react";
 function Footer() {
   return (
     <div>
-      <section className="bg-gray-700 px-40 py-20 rounded-tr-[5rem]   flex justify-self-auto space-x-40">
+      <section className="bg-gray-700 px-40 py-20 rounded-tr-[5rem]">
         <div>
-          <h1 className="pl-[28rem] pb-5 text-2xl font-medium text-white">
+          <h1 className=" text-2xl font-medium text-white">
             Designed for the future
           </h1>
-          <p className="pl-[28rem] text-sm text-white font-light">
+          <p className=" text-sm text-white font-light">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
             ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
